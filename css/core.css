@@ -1,0 +1,18 @@
+.logoColor{
+    color:#4285f4
+}
+.title{
+margin-bottom: 0 !important;
+}
+.subtitle
+{
+    position: relative;
+    margin: 0;
+}
+.high, .medium, .low{
+    display: none;
+    font-size: .9rem;
+}
+.result ul li{
+    text-align: left;
+}

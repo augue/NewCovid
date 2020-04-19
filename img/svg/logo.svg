@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="234px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 234"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#0060AC}
+    .fil1 {fill:#4D4D4D;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_508474016">
+   <path class="fil0" d="M0 0l0 32c10,0 15,3 15,9l0 100 0 0c-1,6 -5,9 -15,10l0 31 71 0 0 -32c-10,0 -15,-3 -15,-9l0 -49 37 90 59 0 0 -141c0,-6 5,-9 15,-9l0 -32 -71 0 0 32c10,0 15,3 15,9l0 43 -36 -84 -75 0 0 0zm386 182l78 0 0 -32c-10,0 -15,-3 -15,-9l0 -96c1,-7 3,-10 6,-10 6,1 8,4 8,11l0 28 37 0 0 -74 -150 0 0 74 37 0 0 -28c0,-7 3,-10 8,-11 4,0 6,3 6,8l0 98c0,6 -5,9 -15,10l0 31zm-123 0l78 0 0 -32c-10,0 -15,-3 -15,-9l0 -99c0,-6 5,-9 15,-10l0 -32 0 0 -78 0 0 32c3,0 5,0 7,1 5,2 7,4 7,8l1 0 0 100c0,6 -5,9 -15,10l0 31 0 0zm-87 0l78 0 0 -32c-10,0 -15,-3 -15,-9l0 -99c0,-6 5,-9 15,-10l0 -32 0 0 -78 0 0 32c3,0 5,0 7,1 5,2 7,4 7,8l1 0 0 100c0,6 -5,9 -15,10l0 31z"/>
+   <path class="fil1" d="M203 205c0,-5 -1,-13 -13,-13 -14,0 -15,9 -15,22 0,13 2,20 12,20 4,0 7,-1 9,-5l0 0 0 4 7 0 0 -21 -14 0 0 6 5 0 0 1c0,6 -1,9 -4,9 -4,0 -5,-4 -5,-15 0,-11 1,-15 5,-15 3,0 3,4 3,7l10 0z"/>
+   <polygon id="1" class="fil1" points="209,233 218,233 218,216 226,216 226,233 235,233 235,193 226,193 226,208 218,208 218,193 209,193 "/>
+   <path id="2" class="fil1" d="M259 218l-7 0 3 -18 0 0 4 18zm-20 15l10 0 1 -7 10 0 1 7 10 0 -10 -40 -12 0 -10 40z"/>
+   <polygon id="3" class="fil1" points="275,233 284,233 284,205 284,205 292,233 303,233 303,193 294,193 294,219 294,219 286,193 275,193 "/>
+   <path id="4" class="fil1" d="M326 218l-7 0 4 -18 0 0 3 18zm-19 15l9 0 2 -7 10 0 1 7 10 0 -10 -40 -12 0 -10 40z"/>
+  </g>
+ </g>
+</svg>
